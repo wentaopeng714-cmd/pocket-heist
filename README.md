@@ -1,8 +1,8 @@
 # Pocket Heist
 
-Pocket Heist (浣熊潜入营救) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.0.
+Pocket Heist (浣熊潜入营救) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.1.
 
-**[Play online](https://wentaopeng714-cmd.github.io/pocket-heist/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/pocket-heist/releases/download/v1.0.0/pocket-heist-v1.0.0.zip)**
+**[Play online](https://wentaopeng714-cmd.github.io/pocket-heist/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/pocket-heist/releases/download/v1.0.1/pocket-heist-v1.0.1.zip)**
 
 ![Game preview](previews/pocket-heist-play.png)
 
